@@ -33,3 +33,12 @@ https://github.com/user-attachments/assets/b3c09bd0-f87a-49cc-a8ed-a3df44153d0f
 3. `1.model_loading.vs`
 
 จากนั้นวางโฟลเดอร์โมเดล 3D ที่จำเป็นไว้ใน `resources/objects/maze/` และ Build และ Run โปรแกรมตามขั้นตอนของ LearnOpenGL
+
+## Assets ที่ใช้
+ 
+| Asset | ผู้สร้าง | License | ลิงก์ |
+|---|---|---|---|
+| Modular Dungeon Kit (ประตู) | Kenney | CC0 | [kenney.nl](https://kenney.nl/assets/modular-dungeon-kit) |
+| KayKit - Dungeon Pack Remastered (พื้น, กำแพง) | Kay Lousberg | CC0 | [itch.io](https://kaylousberg.itch.io/kaykit-dungeon-remastered) |
+| Key (กุญแจ) | Gektark | CC Attribution | [sketchfab.com](https://sketchfab.com/3d-models/key-99ee9ff58fd14cb19309da81d0b098c9) |
+| The Cat's Body (ตัวละครผู้เล่น) | ippolitagalloeft | CC Attribution | [sketchfab.com](https://sketchfab.com/3d-models/the-cats-body-04ae93d572904be8b7d53a6ccb71c433) |
