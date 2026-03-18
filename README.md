@@ -2,7 +2,7 @@
 
 ## Demo Video
 
--
+https://github.com/user-attachments/assets/b3c09bd0-f87a-49cc-a8ed-a3df44153d0f
 
 ## คำอธิบาย
 
